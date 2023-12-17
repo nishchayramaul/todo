@@ -19,7 +19,8 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-
+**
+DESCRIPTION
 
 This is a simple To do application made by react.js with a simple user interface and easy to use.
 You can simply enter your tasks to be done in day to day life , after completion of task you can delete the task using delete icon.
